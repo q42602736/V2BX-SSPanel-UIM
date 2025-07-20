@@ -8,6 +8,7 @@
 ![Downloads](https://img.shields.io/github/downloads/q42602736/V2BX-SSPanel-UIM/total?style=for-the-badge)
 
 **专为SSPanel-UIM面板优化的V2BX后端,注意本修改版V2BX后端只支持对接本人修改后的SSPanel-UIM项目，原项目可能不支持**
+[问题反馈](https://github.com/q42602736/V2BX-SSPanel-UIM/issues) · [📢 TG频道](https://t.me/fluentboard666)
 
 支持 VMess | VLESS+Reality | Shadowsocks2022 | Trojan | Hysteria2
 
